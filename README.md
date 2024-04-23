@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-![Heidar.Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Heidar.Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=heidar-dev-2024&show_icons=true&theme=radical)
 
 <!---
 heidar-dev-2024/heidar-dev-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

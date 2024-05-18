@@ -28,18 +28,14 @@
 
 ## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/863e4a0f-f614-4076-8bd1-587afbd97196)My activities
 
-<div align="center">
+
 
 ![stat](https://github-readme-stats.vercel.app/api?username=heidar-dev-2024&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=heidar-dev-2024&theme=radical&border_radius=7.1)
-<div align=left>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heidar-dev-2024&layout=donut)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heidar-dev-2024&layout=donut)
 ![](https://github-profile-trophy.vercel.app/?username=heidar-dev-2024&row=2&column=3)
-</div>
-  
 
-</div>
 
 
 ## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/9c9610de-c130-4ba5-aa1b-e64883d0c6c5)My socials

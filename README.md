@@ -1,5 +1,7 @@
 ## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/389c6dd1-e88e-4bca-987c-50dc4c980f5f)hello every one this is **Heidar.Dev**
 
+###
+
 ## ![](https://github.com/heidar-dev-2024/heidar-dev-2024/blob/main/Thinking%20Face%20(2).png)Who am i
   
 - ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/fe129c1e-7269-4f54-8e26-4daa98a75fe1)&nbsp;I'm a junior front-end developer
@@ -18,16 +20,46 @@
 # ![](https://github.com/heidar-dev-2024/heidar-dev-2024/blob/main/Hammer%20And%20Wrench.png)My tools
 
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/41858914-dce4-4bc3-8a13-14ffbf35b27a) ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/4986c537-7a72-4dbb-91df-6ff9c4065d84)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/0f7013a6-ce31-4837-84f6-aa64a608a583)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/26e728e6-95ec-4a24-a0ed-fd7a730c7648)
-![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/45d22665-903a-43c8-b2ff-2d362782dd30)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/7ab7c9c6-c7e0-4bb8-8cb9-db39b7e05252)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/d52691c5-6f67-46e3-8984-de50083c05cc)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ad820e9b-668d-4712-8e50-a7568df48a94)
+![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/45d22665-903a-43c8-b2ff-2d362782dd30)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/7ab7c9c6-c7e0-4bb8-8cb9-db39b7e05252)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/fcf976ab-0e36-4bf0-8cec-df2497461e2a)
+![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/d52691c5-6f67-46e3-8984-de50083c05cc)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ad820e9b-668d-4712-8e50-a7568df48a94)
 
 
 
 
-## My activities
+## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/863e4a0f-f614-4076-8bd1-587afbd97196)My activities
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heidar-dev-2024&show_icons=true&theme=radical)
+<div align="center">
 
-## My socials
-<a href="https://www.instagram.com/heidar.dev/"><img src="https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/1f9461f1-a074-4b0e-9610-4b07b89f6229"></a>
-<a href="https://t.me/heidar_dev"><img src="https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/74d0f8cd-1544-4b07-8007-d5525f82a39f" ></a>
+![stat](https://github-readme-stats.vercel.app/api?username=heidar-dev-2024&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
+![GitHub Streak](https://streak-stats.demolab.com?user=heidar-dev-2024&theme=radical&border_radius=7.1)
+<div align=left>
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heidar-dev-2024&layout=donut)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-profile-trophy.vercel.app/?username=heidar-dev-2024&row=2&column=3)
+</div>
+  
+
+</div>
+
+
+## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/9c9610de-c130-4ba5-aa1b-e64883d0c6c5)My socials
+
+<div align="center">
+  
+![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/b9c01576-c4b8-43b8-90bf-eeafca958ba7)
+![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/a5a54070-28fd-46f5-9d61-079645ccdfc9)
+![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/524077c5-2830-43ec-a35c-b412413c16df)
+![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/3ebf32ff-dd64-4746-919e-e7204248e5fe)
+
+</div>
+
+
+
+
+
+
+
+
+
+
 

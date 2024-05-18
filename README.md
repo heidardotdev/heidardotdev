@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![stat](https://github-readme-stats.vercel.app/api?username=heidar-dev-2024&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
+![stat](https://github-readme-stats.vercel.app/api?username=heidar-dev-2024&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=heidar-dev-2024&theme=radical&border_radius=7.1)
 <div align=left>
   

@@ -4,7 +4,7 @@
 
 ## ![](https://github.com/heidar-dev-2024/heidar-dev-2024/blob/main/Thinking%20Face%20(2).png)Who am i
   
-- ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/fe129c1e-7269-4f54-8e26-4daa98a75fe1)&nbsp;I'm a junior front-end developer
+- [![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/fe129c1e-7269-4f54-8e26-4daa98a75fe1)](#)&nbsp;I'm a junior front-end developer
 - ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ce578ed0-d9db-44e8-bf83-8905d4c33488)&nbsp;as matter of fact I'm fall in love with development
 - ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/13732676-7865-4541-bbf3-2231e7ebc1af)&nbsp;&nbsp;I'm reading some books to become a software engineer
 - ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/7b3dce95-6814-4e2d-a5ad-5fb2c3257c0a)&nbsp;I'm doing my the best to become a wonderful software engineer

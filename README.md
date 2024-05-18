@@ -14,7 +14,7 @@
   education: High_School;
   field: network&&software;
   goal: A_Wonderful_Software_Engineer;
-  additional🫀.fall.in.love-with-development
+  additional: 🫀.fall.in.love-with-development
   
 
   ```

@@ -55,8 +55,13 @@
 [![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/a5a54070-28fd-46f5-9d61-079645ccdfc9)](https://t.me/heidar_dev)
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/524077c5-2830-43ec-a35c-b412413c16df)
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/3ebf32ff-dd64-4746-919e-e7204248e5fe)
+![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/b999accf-0743-457a-b678-c441bab8a67d)
+
 
 </div>
+
+
+
 
 
 

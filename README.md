@@ -9,12 +9,15 @@
 - ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/13732676-7865-4541-bbf3-2231e7ebc1af)&nbsp;&nbsp;I'm reading some books to become a software engineer
 - ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/7b3dce95-6814-4e2d-a5ad-5fb2c3257c0a)&nbsp;I'm doing my the best to become a wonderful software engineer
 
-  ```javascript
-  nickName: Heidar.Dev;
-  education: High_School;
-  field: network&&software;
-  goal: A_Wonderful_Software_Engineer;
-  additional: I.fall.in.love With_Development
+  ```json
+{
+  "name": "Heidar",
+  "last_name": "Kalkouti",
+  "education": "high school",
+  "academic_field": "computer science",
+  "goal": "software engineer"
+}
+
   
 
   ```

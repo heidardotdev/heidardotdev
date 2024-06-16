@@ -21,7 +21,11 @@
 
 # ![](https://github.com/heidar-dev-2024/heidar-dev-2024/blob/main/Rocket.png)My skills
 
-![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/71f1435e-3248-4fb4-b691-06117a698868)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/57dbd68a-6934-4e96-a49b-2e94b22bcb18)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/c18ac719-4376-40f9-b2d8-f9272d261e09)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/96dbb118-e369-4292-a8e6-7d9c56a85a85)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/0e24dd45-96ca-44de-9dc8-594671eed82b)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ad5ead4c-de5f-417c-895f-8ae34b3fa6f3)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/da8bc7cc-bde2-4227-ad99-c308617d5219)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/dcaefb3d-c76c-4162-9d56-3cf591cd0722)
+![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/71f1435e-3248-4fb4-b691-06117a698868)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/57dbd68a-6934-4e96-a49b-2e94b22bcb18)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/c18ac719-4376-40f9-b2d8-f9272d261e09)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/96dbb118-e369-4292-a8e6-7d9c56a85a85)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/0e24dd45-96ca-44de-9dc8-594671eed82b)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ad5ead4c-de5f-417c-895f-8ae34b3fa6f3)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/da8bc7cc-bde2-4227-ad99-c308617d5219)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/dcaefb3d-c76c-4162-9d56-3cf591cd0722)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/878cc27d-9c2b-4a5d-be09-b1e7d9ebceb9)
+
+
+
+
 
 
 

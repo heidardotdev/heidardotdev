@@ -61,7 +61,7 @@
 ![stat](https://github-readme-stats.vercel.app/api?username=heidar-dev&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=heidar-dev&theme=radical&card_width=370)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heidar-dev-2024&layout=donut)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-profile-trophy.vercel.app/?username=heidar-dev-2024&row=2&column=3)
+![](https://github-profile-trophy.vercel.app/?username=heidar-dev&row=2&column=3)
 
 
 

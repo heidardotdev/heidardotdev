@@ -40,7 +40,7 @@
 
 
 
-## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/863e4a0f-f614-4076-8bd1-587afbd97196)My activities
+## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/863e4a0f-f614-4076-8bd1-587afbd97196)activities
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/9c9610de-c130-4ba5-aa1b-e64883d0c6c5)My socials
+## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/9c9610de-c130-4ba5-aa1b-e64883d0c6c5)social media
 
 <div align="center">
   

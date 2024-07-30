@@ -12,19 +12,6 @@
 <br/>
 
 
-````json
-
-
-{
-  "name": "Heidar",
-  "last_name": "Dev",
-  "education": "high school",
-  "academic_field": "computer science",
-  "goal": "software engineer"
-}
-
-
-````
 
 
 

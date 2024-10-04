@@ -12,7 +12,10 @@
 
 ## ![](https://github.com/heidar-dev-2024/heidar-dev-2024/blob/main/Rocket.png)My skills
 
-![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/71f1435e-3248-4fb4-b691-06117a698868)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/57dbd68a-6934-4e96-a49b-2e94b22bcb18)
+![image](https://github.com/user-attachments/assets/819cb962-24ff-4827-9653-bffc6e2a8e26)
+![image](https://github.com/user-attachments/assets/219fc8d6-492f-477f-b0b6-1adf853d4bc9)
+![image](https://github.com/user-attachments/assets/29d9ae6e-dcc8-4a5b-8c4c-c1de74f520a0)
+
 
 
 

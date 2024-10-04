@@ -1,4 +1,4 @@
-#  📚Studing until be the best of the best
+#  📚Studying until be the best of the best
   
 
 

@@ -10,7 +10,7 @@
 
 
 
-## ![](https://github.com/heidar-dev-2024/heidar-dev-2024/blob/main/Rocket.png)My skills
+## 🚀My skills
 
 ![image](https://github.com/user-attachments/assets/819cb962-24ff-4827-9653-bffc6e2a8e26)
 ![image](https://github.com/user-attachments/assets/219fc8d6-492f-477f-b0b6-1adf853d4bc9)

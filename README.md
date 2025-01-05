@@ -49,7 +49,8 @@
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/45d22665-903a-43c8-b2ff-2d362782dd30)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/7ab7c9c6-c7e0-4bb8-8cb9-db39b7e05252)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/fcf976ab-0e36-4bf0-8cec-df2497461e2a)
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/d52691c5-6f67-46e3-8984-de50083c05cc)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ad820e9b-668d-4712-8e50-a7568df48a94)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/990e087b-4a42-4dca-9186-a7dbce31d29f)
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/dcaefb3d-c76c-4162-9d56-3cf591cd0722)
-![image](https://github.com/user-attachments/assets/5d546c4a-93d9-4f53-8cbd-ec00a2c2e8e9)
+![image](https://github.com/user-attachments/assets/e5f51878-13ba-4e35-a80e-ab4566cb8eaa)
+
 
 
 

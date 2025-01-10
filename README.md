@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="500"/>
 
-# 🙍‍♂️Biography
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="36" height="36" /> a flexible boy who love to improve his science level everysingle moment</h3> 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="36" height="36" /> application development is my life</h3> 
+<h1><img src="https://github.com/heidardotdev/heidardotdev/blob/main/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="50" height="50" /> Biography</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
-<br/>
-<br/>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="36" height="36" /> a flexible boy who love to improve his science level everysingle moment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="36" height="36" /></h3> 
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="36" height="36" /> application development is my life <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="36" height="36" /></h3> 
+
+
+
 
 
 ````json
@@ -30,7 +30,11 @@
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/71f1435e-3248-4fb4-b691-06117a698868)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/57dbd68a-6934-4e96-a49b-2e94b22bcb18)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/c18ac719-4376-40f9-b2d8-f9272d261e09)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/96dbb118-e369-4292-a8e6-7d9c56a85a85)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/0e24dd45-96ca-44de-9dc8-594671eed82b)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ad5ead4c-de5f-417c-895f-8ae34b3fa6f3)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/da8bc7cc-bde2-4227-ad99-c308617d5219)<br/>![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/3f1ffb65-a946-48ac-99f3-5f4e721b8ab8)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/205d0e7d-f6e8-4082-b2da-a03b53fe39cb)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/0d993b9e-e664-4762-b1fc-aa68bbd7b519)
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/878cc27d-9c2b-4a5d-be09-b1e7d9ebceb9)
 
-
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
+<br/>
+<br/>
 
 
 
@@ -48,6 +52,11 @@
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/dcaefb3d-c76c-4162-9d56-3cf591cd0722)
 ![image](https://github.com/user-attachments/assets/e5f51878-13ba-4e35-a80e-ab4566cb8eaa)
 
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
+<br/>
+<br/>
 
 
 
@@ -63,6 +72,10 @@
 </a>
 
 </div>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
+<br/>
+<br/>
 
 
 ## 📌My project

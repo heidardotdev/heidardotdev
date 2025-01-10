@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="500"/>
 
-<h1><img src="https://github.com/heidardotdev/heidardotdev/blob/main/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="50" height="50" /> Biography</h1>
+<h2><img src="https://github.com/heidardotdev/heidardotdev/blob/main/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="50" height="50" /> Biography</h2>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="36" height="36" /> a flexible boy who love to improve his science level everysingle moment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="36" height="36" /></h3> 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="36" height="36" /> application development is my life <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="36" height="36" /></h3> 
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="36" height="36" /> a flexible boy who love to improve his science level everysingle moment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Double%20Exclamation%20Mark.webp" alt="Double Exclamation Mark" width="36" height="36" /></h3> 
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="36" height="36" /> application development is my life <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Hundred%20Points.webp" alt="Hundred Points" width="36" height="36" /></h3> 
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="50" height="50" />  My skills </h1>
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="60" height="60" />  My Skills </h1>
 
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/71f1435e-3248-4fb4-b691-06117a698868)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/57dbd68a-6934-4e96-a49b-2e94b22bcb18)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/c18ac719-4376-40f9-b2d8-f9272d261e09)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/96dbb118-e369-4292-a8e6-7d9c56a85a85)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/0e24dd45-96ca-44de-9dc8-594671eed82b)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ad5ead4c-de5f-417c-895f-8ae34b3fa6f3)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/da8bc7cc-bde2-4227-ad99-c308617d5219)<br/>![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/3f1ffb65-a946-48ac-99f3-5f4e721b8ab8)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/205d0e7d-f6e8-4082-b2da-a03b53fe39cb)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/0d993b9e-e664-4762-b1fc-aa68bbd7b519)
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/878cc27d-9c2b-4a5d-be09-b1e7d9ebceb9)
@@ -44,7 +44,7 @@
 
 
 
-# 🛠My tools
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="60" height="60" />My Tools</h1>
 
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/41858914-dce4-4bc3-8a13-14ffbf35b27a) ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/4986c537-7a72-4dbb-91df-6ff9c4065d84)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/0f7013a6-ce31-4837-84f6-aa64a608a583)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/26e728e6-95ec-4a24-a0ed-fd7a730c7648)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/5d9483a0-660f-44e7-aa70-b5c8bbfa5873)
 ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/45d22665-903a-43c8-b2ff-2d362782dd30)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/7ab7c9c6-c7e0-4bb8-8cb9-db39b7e05252)![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/fcf976ab-0e36-4bf0-8cec-df2497461e2a)
@@ -60,7 +60,7 @@
 
 
 
-## 📊My activities
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="60" height="60" /> My Activities</h1>
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 
 
-## 📌My project
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="60" height="60" /> My Projects</h1>
 <div align="center">
 
   
@@ -93,7 +93,7 @@
 <br/>
 
 
-## 🔗My socials
+<h1>My Socials</h1>
 
 <div align="center">
   

@@ -58,12 +58,14 @@
 
 ## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/863e4a0f-f614-4076-8bd1-587afbd97196)My activities
 
-
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=heidardotdev&theme=radical&rank_icon=github" />
 </a>
+
+&nbsp
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heidardotdev&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
@@ -79,10 +81,45 @@
 [![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/524077c5-2830-43ec-a35c-b412413c16df)](#)
 [![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/3ebf32ff-dd64-4746-919e-e7204248e5fe)](#)
 [![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/19a8ab89-5095-4101-8a4d-104536b84ad2)](#)
+</div>
+
+## ![](https://github.com/heidar-dev-2024/heidar-dev-2024/blob/main/Thinking%20Face%20(2).png)bo![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/dcaefb3d-c76c-4162-9d56-3cf591cd0722)
+![image](https://github.com/user-attachments/assets/e5f51878-13ba-4e35-a80e-ab4566cb8eaa)
 
 
+
+
+
+
+## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/863e4a0f-f614-4076-8bd1-587afbd97196)My activities
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=heidardotdev&theme=radical&rank_icon=github" />
+</a>
+
+&nbsp
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heidardotdev&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
 </div>
+
+## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/9c9610de-c130-4ba5-aa1b-e64883d0c6c5)My socials
+
+<div align="center">
+  
+[![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/b9c01576-c4b8-43b8-90bf-eeafca958ba7)](#)
+[![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/a5a54070-28fd-46f5-9d61-079645ccdfc9)](#)
+[![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/524077c5-2830-43ec-a35c-b412413c16df)](#)
+[![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/3ebf32ff-dd64-4746-919e-e7204248e5fe)](#)
+[![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/19a8ab89-5095-4101-8a4d-104536b84ad2)](#)
+</div>
+
+## !📌My project
+
 <div align="center">
 
 

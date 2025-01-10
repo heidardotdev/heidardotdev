@@ -62,6 +62,18 @@
 
 </div>
 
+
+## 📌My project
+<div align="center">
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=Solve-Js-Exercises&theme=radical)](https://github.com/heidardotdev/Solve-Js-Exercises)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=portfolio&theme=radical)](https://github.com/heidardotdev/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=venom&theme=radical)](https://github.com/heidardotdev/venom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=beedron&theme=radical)](https://github.com/heidardotdev/beedron)
+</div>
+
+
 ## 🔗My socials
 
 <div align="center">
@@ -73,15 +85,6 @@
 [![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/19a8ab89-5095-4101-8a4d-104536b84ad2)](#)
 </div>
 
-## 📌My project
-<div align="center">
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=Solve-Js-Exercises&theme=radical)](https://github.com/heidardotdev/Solve-Js-Exercises)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=portfolio&theme=radical)](https://github.com/heidardotdev/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=venom&theme=radical)](https://github.com/heidardotdev/venom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=beedron&theme=radical)](https://github.com/heidardotdev/beedron)
-</div>
 
 
 

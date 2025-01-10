@@ -70,12 +70,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heidardotdev&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
-
 </div>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
-<br/>
-<br/>
+
 
 
 ## 📌My project
@@ -88,6 +84,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=beedron&theme=radical)](https://github.com/heidardotdev/beedron)
 
 </div>
+
+
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
+<br/>
+<br/>
 
 
 ## 🔗My socials

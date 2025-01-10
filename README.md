@@ -93,7 +93,7 @@
 <br/>
 
 
-<h1>My Socials</h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="60" height="60" /> My Socials</h1>
 
 <div align="center">
   

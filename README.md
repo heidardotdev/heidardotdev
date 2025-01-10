@@ -65,7 +65,6 @@
 ## 📌My project
 <div align="center">
 
-<div>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=Solve-Js-Exercises&theme=radical)](https://github.com/heidardotdev/Solve-Js-Exercises)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=portfolio&theme=radical)](https://github.com/heidardotdev/portfolio)

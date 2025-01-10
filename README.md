@@ -1,7 +1,6 @@
-# 🙍‍♂️Who am i
+# 🙍‍♂️Biography
   
-- ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/ce578ed0-d9db-44e8-bf83-8905d4c33488)&nbsp;as matter of fact I'm fall in love with JavaScript 
-- ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/7b3dce95-6814-4e2d-a5ad-5fb2c3257c0a)&nbsp;I'm doing my the best to become a wonderful software engineer
+
 
 <br/>
 

@@ -59,15 +59,17 @@
 ## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/863e4a0f-f614-4076-8bd1-587afbd97196)My activities
 
 
+<div align="center">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heidardotdev&theme=radical&rank_icon=github" />
+</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heidardotdev&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
-![stat](https://github-readme-stats.vercel.app/api?username=heidardotdev&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=heidardotdev&theme=radical&card_width=370)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heidardotdev&hide_progress=false)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-profile-trophy.vercel.app/?username=heidardotdev&row=2&column=3)
-
-
+</div>
 
 ## ![image](https://github.com/heidar-dev-2024/heidar-dev-2024/assets/165137772/9c9610de-c130-4ba5-aa1b-e64883d0c6c5)My socials
 
@@ -85,6 +87,9 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=Solve-Js-Exercises&theme=radical)](https://github.com/heidardotdev/Solve-Js-Exercises)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=portfolio&theme=radical)](https://github.com/heidardotdev/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=venom&theme=radical)](https://github.com/heidardotdev/venom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heidardotdev&repo=beedron&theme=radical)](https://github.com/heidardotdev/beedron)
 
 
 

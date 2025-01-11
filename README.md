@@ -17,7 +17,7 @@
   "name": "Heidar",
   "last_name": "Kalkouti",
   "education": "high school",
-  "academic_field": "Network & Computer SoftSare",
+  "academic_field": "Network & Computer SoftWare",
   "goal": "software engineer"
 }
 
